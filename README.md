@@ -1,1 +1,1 @@
-# educ_finance
+# Criação de um site sobre educação financeira, a criação do site demonstrará como guardar seu dinheiro, como funciona os investimentos em geral, reserva de emergência e entre outros, o site terá uma pegada mais futurística e clean, com fácil observação e ótimo entendimento.
